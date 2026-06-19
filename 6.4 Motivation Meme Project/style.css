@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+}
+
+#matn1{
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: 300px;
+    font-style: normal;
+    color: white;
+    text-transform: uppercase;
+    
+    
+}
+
+#catpic{
+    margin-top: 20px;
+    height: 300px;
+    width: 500px;
+    border: 10px solid rgb(215, 179, 16);
+}
+#matn2{
+    font-family: "Libre Baskerville", serif;
+    font-optical-sizing: auto;
+    font-weight: 300px;
+    font-style: normal;
+    color: white;
+   
+
+}
+div{
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+}
+
+img{
+    width: 100%;
+}
